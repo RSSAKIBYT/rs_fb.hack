@@ -7,22 +7,22 @@
 
 $=>COMAND<=$
 
-$ pkg update 
+        $ pkg update 
 
-$ pkg upgrade 
+        $ pkg upgrade 
 
-pkg install python
+        $ pkg install python
 
-pkg install git
+        $ pkg install git
 
-git clone https://github.com/RSSAKIBYT/rs_fb.hack.git
+        $ git clone     https://github.com/RSSAKIBYT/rs_fb.hack.git
 
-cd rs_fb.hack
+       $ cd rs_fb.hack
 
-python rs_fb.hack.py
+       $ python rs_fb.hack.py
 
-$=<UPDATE AND UPGRADE ALL TOOLS>=$
+#UPDATE AND UPGRADE ALL TOOLS#
 
 JOINING MY TELEGRAM CHENAL: https://t.me/rs_hacking_official 
 
-           RS SAKIB YT 😘 
+  $ <=RS SAKIB YT 😘 => $
