@@ -15,8 +15,10 @@ pkg install python
 
 pkg install git
 
-git clone 
+git clone https://github.com/RSSAKIBYT/rs_fb.hack.git
 
-cd
+cd rs_fb.hack
 
-python
+python rs_fb.hack.py
+
+
