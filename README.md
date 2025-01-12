@@ -21,4 +21,8 @@ cd rs_fb.hack
 
 python rs_fb.hack.py
 
+$=<UPDATE AND UPGRADE ALL TOOLS>=$
 
+JOINING MY TELEGRAM CHENAL: https://t.me/rs_hacking_official 
+
+           RS SAKIB YT 😘 
