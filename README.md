@@ -15,7 +15,9 @@ $=>COMAND<=$
 
         $ pkg install git
 
-        $ git clone     https://github.com/RSSAKIBYT/rs_fb.hack.git
+        $ git clone   
+        
+        https://github.com/RSSAKIBYT/rs_fb.hack.git
 
        $ cd rs_fb.hack
 
